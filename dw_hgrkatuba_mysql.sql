@@ -7,9 +7,6 @@
 CREATE DATABASE dw_hgrkatuba;
 GO
 
-USE dw_hgrkatuba;
-GO
-
 -- ==========================================================
 -- 1. DIMENSIONS CONFORMES (PARTAGÉES)
 -- ==========================================================
