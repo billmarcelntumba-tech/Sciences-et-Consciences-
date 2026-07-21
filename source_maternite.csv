@@ -1,0 +1,474 @@
+Date_Accouchement,ID_Patient,Age_Gestationnel,Type_Accouchement,Score_Apgar,Poids_Nouveau_Ne,Complication_Type,Niveau_Gravite_Complication,Taille_Naissance,Statut_Bebe,Nb_Grossesses,Antecedents_Obstetricaux
+2025-09-08 21:06,HGRKAT0007,36,Ventouse,9,3110,Infection,Modérée,49.1,Complication,5,Aucun
+2025-10-14 11:40,HGRKAT0010,38,Vaginal,10,3905,Détresse fœtale,Modérée,53.7,Sain,5,Aucun
+2025-04-06 21:32,HGRKAT0016,40,Vaginal,7,3683,Aucune,Aucune,52.4,Sain,1,Aucun
+2026-01-02 20:59,HGRKAT0021,37,Forceps,5,2739,Infection,Sévère,50.9,Sain,1,Fausse couche
+2025-01-31 16:40,HGRKAT0032,38,Ventouse,6,3448,Rupture utérine,Modérée,54.5,Complication,6,Césarienne antérieure
+2025-03-28 06:36,HGRKAT0041,36,Ventouse,8,3303,Infection,Sévère,49.9,Complication,5,Césarienne antérieure
+2025-06-10 08:15,HGRKAT0046,38,Vaginal,9,2354,Détresse fœtale,Faible,48.8,Sain,3,Pré-éclampsie
+2026-01-09 04:11,HGRKAT0098,41,Vaginal,9,99999,Pré-éclampsie,Modérée,51.7,Sain,3,Fausse couche
+2025-09-29 15:04,HGRKAT0104,41,Césarienne,6,2244,Rupture utérine,Faible,48.3,Sain,3,Fausse couche
+2026-04-17 10:37,HGRKAT0119,38,Ventouse,10,2463,Détresse fœtale,Modérée,51.3,Critique,6,Aucun
+2025-09-06 19:46,HGRKAT0125,38,Césarienne,9,2821,Rupture utérine,Modérée,54.6,Sain,1,Pré-éclampsie
+2026-02-02 01:00,HGRKAT0127,40,Vaginal,8,3343,Infection,Faible,46.9,Critique,5,Césarienne antérieure
+2025-04-18 16:23,HGRKAT0142,40,Forceps,7,3692,Détresse fœtale,Sévère,49.1,Critique,1,Fausse couche
+2025-07-24 17:00,HGRKAT0143,38,Forceps,6,3742,Hémorragie,Sévère,53.1,Complication,1,Fausse couche
+2026-02-15 08:34,HGRKAT0150,41,Césarienne,5,3581,Aucune,Aucune,48.3,Critique,6,Aucun
+2025-12-07 22:26,HGRKAT0153,40,Césarienne,5,3803,Pré-éclampsie,Sévère,51.5,Critique,6,Pré-éclampsie
+2025-08-25 10:01,HGRKAT0158,41,Vaginal,10,3330,Hémorragie,Faible,51.0,Critique,6,Fausse couche
+2025-08-24 19:20,HGRKAT0162,37,Ventouse,5,2669,Détresse fœtale,Sévère,54.3,Complication,1,Fausse couche
+2025-11-06 20:34,HGRKAT0163,41,Vaginal,9,3293,Pré-éclampsie,Modérée,49.2,Complication,3,Fausse couche
+2026-01-08 17:42,HGRKAT0169,40,Ventouse,9,3328,Détresse fœtale,Modérée,51.9,Complication,2,Fausse couche
+2025-10-15 13:20,HGRKAT0183,38,Ventouse,9,2767,Hémorragie,Modérée,54.3,Complication,4,Fausse couche
+2025-09-30 13:26,HGRKAT0198,40,Césarienne,9,2391,Infection,Faible,46.6,Sain,6,Fausse couche
+2025-06-13 12:11,HGRKAT0212,39,Césarienne,7,2858,Infection,Sévère,54.6,Critique,2,Césarienne antérieure
+2025-11-15 22:51,HGRKAT0236,41,Vaginal,6,2492,Infection,Faible,45.3,Sain,5,Fausse couche
+2025-11-28 12:23,HGRKAT0255,36,Ventouse,6,3726,Hémorragie,Faible,54.1,Critique,2,Fausse couche
+2025-05-31 01:10,HGRKAT0256,39,Forceps,5,3693,Infection,Faible,49.8,Complication,6,Fausse couche
+2025-02-16 03:46,HGRKAT0266,41,Forceps,9,3212,Détresse fœtale,Sévère,53.8,Complication,5,Césarienne antérieure
+2025-09-17 22:39,HGRKAT0278,37,Vaginal,10,3253,Pré-éclampsie,Sévère,49.4,Critique,1,Aucun
+2025-12-13 19:28,HGRKAT0280,36,Césarienne,9,3089,Hémorragie,Sévère,49.1,Sain,2,Aucun
+2025-01-12 20:51,HGRKAT0284,38,Forceps,6,3307,Détresse fœtale,Faible,51.5,Complication,4,Fausse couche
+2026-03-08 19:01,HGRKAT0292,37,Vaginal,7,2846,Détresse fœtale,Modérée,53.1,Complication,4,Fausse couche
+2026-01-16 15:55,HGRKAT0296,41,Vaginal,8,2639,Rupture utérine,Modérée,48.2,Critique,3,Césarienne antérieure
+2025-08-10 17:46,HGRKAT0298,36,Forceps,10,3972,Pré-éclampsie,Modérée,49.2,Complication,4,Césarienne antérieure
+2025-11-08 01:03,HGRKAT0300,40,Forceps,5,3989,Infection,Sévère,49.6,Sain,1,Aucun
+2025-02-05 07:24,HGRKAT0304,37,Ventouse,7,3354,Pré-éclampsie,Faible,47.8,Sain,5,Fausse couche
+2026-03-11 02:08,HGRKAT0305,41,Césarienne,10,3053,Rupture utérine,Faible,46.7,Sain,3,Pré-éclampsie
+2025-10-20 03:44,HGRKAT0310,36,Vaginal,10,3991,Détresse fœtale,Sévère,52.4,Critique,6,Pré-éclampsie
+2025-05-21 08:04,HGRKAT0315,37,Césarienne,6,2224,Détresse fœtale,Sévère,45.9,Sain,4,Aucun
+2025-08-26 01:01,HGRKAT0334,38,Forceps,6,2918,Infection,Modérée,46.6,Sain,4,Pré-éclampsie
+2025-04-24 10:25,HGRKAT0387,39,Ventouse,5,3957,Pré-éclampsie,Faible,52.1,Critique,2,Fausse couche
+2026-01-24 02:13,HGRKAT0389,36,Césarienne,10,3823,Rupture utérine,Faible,53.0,Critique,1,Pré-éclampsie
+2025-12-27 13:19,HGRKAT0407,40,Vaginal,5,2582,Infection,Sévère,48.2,Complication,3,Fausse couche
+2025-09-27 07:11,HGRKAT0408,37,Césarienne,9,3501,Aucune,Aucune,45.5,Complication,4,Césarienne antérieure
+2026-03-11 20:27,HGRKAT0417,40,Vaginal,5,2707,Hémorragie,Modérée,54.5,Critique,1,Aucun
+2026-05-26 02:37,HGRKAT0436,40,Césarienne,10,3814,Infection,Faible,52.4,Complication,1,Fausse couche
+2026-03-14 12:42,HGRKAT0447,37,Césarienne,6,3946,Infection,Faible,51.9,Complication,2,Pré-éclampsie
+2026-01-05 05:35,HGRKAT0465,37,Ventouse,7,2633,Rupture utérine,Faible,54.5,Critique,5,Fausse couche
+2025-11-23 05:21,HGRKAT0468,38,Vaginal,6,3522,Détresse fœtale,Sévère,50.4,Critique,3,Pré-éclampsie
+2026-06-27 12:13,HGRKAT0481,36,Vaginal,7,3198,Aucune,Aucune,50.3,Critique,1,Césarienne antérieure
+2025-09-26 20:38,HGRKAT0484,38,Forceps,5,3308,Aucune,Aucune,50.2,Complication,4,Pré-éclampsie
+2025-12-30 16:08,HGRKAT0495,40,Vaginal,8,3369,Rupture utérine,Faible,45.2,Sain,5,Césarienne antérieure
+2025-10-14 18:40,HGRKAT0509,36,Ventouse,8,3961,Infection,Sévère,48.3,Sain,6,Césarienne antérieure
+2025-04-29 02:20,HGRKAT0521,36,Forceps,7,2552,Détresse fœtale,Modérée,54.5,Complication,6,Pré-éclampsie
+2026-05-09 06:14,HGRKAT0563,40,Césarienne,9,2757,Infection,Faible,48.0,Sain,3,Césarienne antérieure
+2025-02-13 22:31,HGRKAT0575,39,Césarienne,5,2757,Détresse fœtale,Faible,49.7,Critique,2,Pré-éclampsie
+2026-02-01 00:22,HGRKAT0604,39,Césarienne,7,3483,Rupture utérine,Sévère,53.0,Critique,3,Fausse couche
+2026-04-05 18:23,HGRKAT0648,39,Césarienne,5,3150,Pré-éclampsie,Modérée,50.7,Sain,4,Pré-éclampsie
+2025-02-24 05:27,HGRKAT0654,40,Ventouse,7,2946,Aucune,Aucune,46.2,Complication,4,Fausse couche
+2025-07-14 10:44,HGRKAT0681,36,Césarienne,6,3564,Détresse fœtale,Modérée,49.6,Complication,1,Pré-éclampsie
+2025-09-16 01:36,HGRKAT0700,37,Vaginal,5,2794,Hémorragie,Faible,46.6,Critique,6,Pré-éclampsie
+2025-09-04 12:01,HGRKAT0702,37,Ventouse,5,3030,Pré-éclampsie,Faible,46.8,Complication,3,Fausse couche
+2026-01-06 17:37,HGRKAT0713,38,Forceps,10,2479,Infection,Sévère,53.6,Sain,3,Fausse couche
+2026-02-13 19:07,HGRKAT0720,36,Forceps,6,3790,Rupture utérine,Modérée,45.6,Critique,4,Fausse couche
+2025-10-02 04:10,HGRKAT0750,41,Césarienne,9,4027,Détresse fœtale,Sévère,53.3,Sain,5,Aucun
+2026-04-01 18:46,HGRKAT0786,36,Forceps,10,3019,Détresse fœtale,Modérée,51.3,Sain,2,Pré-éclampsie
+2025-11-26 04:18,HGRKAT0791,39,Forceps,8,3965,Rupture utérine,Modérée,55.0,Complication,5,Fausse couche
+2025-12-14 07:02,HGRKAT0795,40,Césarienne,10,2659,Aucune,Aucune,48.9,Sain,5,Fausse couche
+2026-05-10 07:59,HGRKAT0797,37,Ventouse,8,3133,Infection,Modérée,47.6,Critique,2,Pré-éclampsie
+2026-03-15 23:25,HGRKAT0805,37,Césarienne,8,2703,Détresse fœtale,Faible,51.3,Complication,4,Fausse couche
+2026-01-31 18:58,HGRKAT0818,39,Forceps,10,2565,Pré-éclampsie,Modérée,48.5,Complication,2,Césarienne antérieure
+2025-07-29 03:33,HGRKAT0822,37,Ventouse,10,4060,Infection,Modérée,45.4,Sain,2,Pré-éclampsie
+2025-03-29 12:11,HGRKAT0841,38,Césarienne,9,3964,Aucune,Aucune,52.0,Critique,2,Césarienne antérieure
+2025-06-21 17:11,HGRKAT0859,40,Ventouse,9,2331,Pré-éclampsie,Sévère,47.8,Critique,4,Césarienne antérieure
+2026-01-07 00:31,HGRKAT0863,41,Ventouse,9,2387,Infection,Faible,50.4,Sain,4,Césarienne antérieure
+2025-12-12 07:33,HGRKAT0876,36,Forceps,9,2439,Infection,Sévère,50.2,Sain,4,Pré-éclampsie
+2025-10-20 13:15,HGRKAT0899,36,Césarienne,9,2380,Infection,Faible,49.1,Sain,5,Aucun
+2026-04-28 15:05,HGRKAT0923,37,Ventouse,6,3871,Hémorragie,Sévère,45.4,Critique,4,Pré-éclampsie
+2025-01-09 06:50,HGRKAT0924,36,Forceps,10,4001,Aucune,Aucune,45.9,Critique,1,Fausse couche
+2025-02-28 00:05,HGRKAT0926,38,Césarienne,6,-500,Rupture utérine,Modérée,46.9,Critique,4,Césarienne antérieure
+2025-07-03 17:45,HGRKAT0934,40,Ventouse,8,2604,Pré-éclampsie,Modérée,54.0,Complication,5,Pré-éclampsie
+2026-06-13 10:26,HGRKAT0935,38,Césarienne,6,2683,Rupture utérine,Modérée,47.7,Critique,5,Césarienne antérieure
+2026-03-24 16:41,HGRKAT0950,36,Vaginal,7,3646,Détresse fœtale,Faible,45.6,Complication,5,Fausse couche
+2025-03-25 17:07,HGRKAT0955,38,Vaginal,9,3080,Infection,Faible,51.2,Sain,5,Aucun
+2025-06-30 04:03,HGRKAT0958,37,Forceps,10,3009,Hémorragie,Modérée,50.7,Critique,3,Fausse couche
+2025-08-12 23:36,HGRKAT0989,39,Césarienne,9,3032,Hémorragie,Sévère,49.1,Complication,5,Fausse couche
+2025-12-26 12:56,HGRKAT0992,37,Forceps,5,2934,Infection,Sévère,54.8,Critique,4,Pré-éclampsie
+2025-11-09 04:58,HGRKAT1003,40,Césarienne,5,2480,Hémorragie,Modérée,54.5,Sain,4,Aucun
+2026-01-28 12:43,HGRKAT1023,36,Césarienne,10,3446,Pré-éclampsie,Faible,52.8,Sain,5,Césarienne antérieure
+2025-12-14 18:45,HGRKAT1046,38,Forceps,5,4100,Pré-éclampsie,Sévère,48.0,Critique,1,Pré-éclampsie
+2025-07-04 14:56,HGRKAT1049,40,Ventouse,5,3788,Hémorragie,Sévère,46.5,Critique,4,Césarienne antérieure
+2025-01-03 22:10,HGRKAT1057,41,Césarienne,7,2578,Détresse fœtale,Modérée,46.0,Complication,3,Pré-éclampsie
+2026-06-24 15:20,HGRKAT1065,37,Vaginal,7,3604,Détresse fœtale,Modérée,52.5,Complication,1,Césarienne antérieure
+2025-12-31 08:43,HGRKAT1102,36,Césarienne,10,3654,Infection,Faible,49.5,Critique,5,Fausse couche
+2025-04-21 09:06,HGRKAT1104,36,Vaginal,6,3002,Hémorragie,Modérée,53.4,Critique,2,Pré-éclampsie
+2025-08-28 18:39,HGRKAT1136,38,Forceps,7,3335,Rupture utérine,Modérée,45.1,Sain,3,Aucun
+2025-09-03 23:58,HGRKAT1167,36,Forceps,5,3428,Pré-éclampsie,Sévère,46.0,Complication,3,Aucun
+2025-08-11 00:48,HGRKAT1184,37,Ventouse,8,2977,Aucune,Aucune,49.1,Sain,5,Pré-éclampsie
+2025-02-16 18:46,HGRKAT1195,36,Césarienne,8,2575,Aucune,Aucune,48.3,Critique,4,Pré-éclampsie
+2026-05-20 06:41,HGRKAT1201,39,Ventouse,6,-500,Rupture utérine,Faible,51.9,Complication,1,Pré-éclampsie
+2025-02-14 20:24,HGRKAT1209,40,Césarienne,6,4066,Infection,Sévère,54.6,Complication,6,Césarienne antérieure
+2025-07-04 17:12,HGRKAT1211,39,Forceps,9,99999,Hémorragie,Sévère,49.2,Critique,6,Césarienne antérieure
+2026-04-23 04:00,HGRKAT1217,40,Vaginal,9,2634,Infection,Sévère,54.8,Sain,1,Aucun
+2025-03-22 14:30,HGRKAT1221,38,Ventouse,6,2407,Pré-éclampsie,Modérée,46.7,Critique,2,Pré-éclampsie
+2026-04-16 22:01,HGRKAT1224,38,Forceps,6,2933,Rupture utérine,Modérée,45.2,Critique,6,Aucun
+2025-12-14 18:39,HGRKAT1232,36,Césarienne,5,3757,Pré-éclampsie,Faible,52.1,Critique,1,Césarienne antérieure
+2025-04-03 03:52,HGRKAT1236,37,Ventouse,7,2791,Pré-éclampsie,Modérée,55.0,Complication,2,Pré-éclampsie
+2025-09-07 09:22,HGRKAT1280,39,Ventouse,5,2618,Aucune,Aucune,53.8,Complication,2,Pré-éclampsie
+2026-05-11 05:55,HGRKAT1293,38,Forceps,10,2670,Hémorragie,Faible,53.0,Critique,3,Fausse couche
+2026-05-11 18:23,HGRKAT1296,36,Césarienne,5,3416,Infection,Faible,50.8,Critique,2,Pré-éclampsie
+2025-01-10 11:36,HGRKAT1305,41,Forceps,7,3065,Aucune,Aucune,51.9,Sain,5,Fausse couche
+2026-04-15 12:43,HGRKAT1318,37,Forceps,6,3642,Détresse fœtale,Faible,49.5,Complication,3,Aucun
+2025-08-15 19:23,HGRKAT1320,36,Ventouse,8,3567,Aucune,Aucune,54.2,Sain,3,Césarienne antérieure
+2026-04-01 14:54,HGRKAT1338,36,Césarienne,5,2995,Pré-éclampsie,Faible,46.9,Complication,5,Césarienne antérieure
+2025-02-04 21:12,HGRKAT1342,37,Vaginal,7,3698,Rupture utérine,Sévère,53.1,Critique,3,Pré-éclampsie
+2025-11-19 22:10,HGRKAT1352,38,Césarienne,5,3802,Détresse fœtale,Sévère,47.0,Sain,3,Césarienne antérieure
+2025-11-08 08:46,HGRKAT1360,40,Césarienne,6,2468,Hémorragie,Modérée,50.1,Sain,3,Aucun
+2025-06-21 21:56,HGRKAT1371,36,Forceps,6,3730,Rupture utérine,Sévère,46.4,Critique,6,Aucun
+2025-08-21 16:20,HGRKAT1375,36,Forceps,8,3461,Détresse fœtale,Modérée,53.8,Sain,6,Fausse couche
+2025-04-14 15:49,HGRKAT1379,40,Vaginal,6,3935,Détresse fœtale,Faible,53.8,Sain,1,Aucun
+2025-01-23 23:11,HGRKAT1392,36,Césarienne,8,3849,Hémorragie,Modérée,51.0,Sain,6,Pré-éclampsie
+2025-04-15 21:46,HGRKAT1403,36,Forceps,10,3882,Aucune,Aucune,53.6,Sain,4,Fausse couche
+2026-01-03 03:23,HGRKAT1421,37,Césarienne,9,3517,Hémorragie,Modérée,52.5,Critique,2,Aucun
+2025-11-15 04:45,HGRKAT1424,36,Vaginal,7,2875,Pré-éclampsie,Sévère,47.7,Complication,6,Césarienne antérieure
+2025-06-03 21:40,HGRKAT1430,39,Ventouse,10,3547,Détresse fœtale,Modérée,51.6,Critique,2,Césarienne antérieure
+2025-06-05 15:00,HGRKAT1432,39,Ventouse,5,3059,Rupture utérine,Sévère,52.4,Complication,6,Fausse couche
+2025-03-28 03:42,HGRKAT1506,39,Forceps,8,2501,Aucune,Aucune,48.7,Critique,5,Césarienne antérieure
+2025-09-05 15:49,HGRKAT1512,38,Césarienne,9,3763,Rupture utérine,Modérée,47.1,Critique,5,Césarienne antérieure
+2025-05-20 17:19,HGRKAT1524,39,Césarienne,8,2898,Rupture utérine,Sévère,45.0,Complication,5,Fausse couche
+2025-04-28 14:01,HGRKAT1535,40,Ventouse,5,2544,Aucune,Aucune,49.9,Critique,6,Pré-éclampsie
+2025-11-26 13:10,HGRKAT1555,39,Forceps,7,3333,Aucune,Aucune,46.7,Sain,1,Pré-éclampsie
+2025-09-07 02:41,HGRKAT1564,37,Vaginal,10,3662,Aucune,Aucune,54.2,Sain,4,Pré-éclampsie
+2026-04-12 11:03,HGRKAT1568,39,Ventouse,9,4009,Rupture utérine,Faible,45.7,Complication,4,Fausse couche
+2026-04-22 21:03,HGRKAT1581,36,Ventouse,5,2706,Aucune,Aucune,53.3,Critique,3,Aucun
+2026-04-05 05:44,HGRKAT1596,40,Ventouse,9,3785,Hémorragie,Sévère,45.4,Critique,4,Césarienne antérieure
+2025-10-29 08:40,HGRKAT1600,41,Césarienne,6,4001,Détresse fœtale,Faible,54.5,Sain,5,Aucun
+2026-02-18 05:51,HGRKAT1605,41,Césarienne,10,3819,Détresse fœtale,Faible,45.1,Critique,2,Aucun
+2025-11-19 02:26,HGRKAT1629,41,Césarienne,10,4041,Détresse fœtale,Modérée,47.8,Sain,2,Césarienne antérieure
+2025-04-10 10:19,HGRKAT1639,38,Ventouse,9,3872,Hémorragie,Modérée,48.0,Complication,4,Pré-éclampsie
+2025-08-30 20:01,HGRKAT1644,39,Vaginal,6,3363,Aucune,Aucune,47.2,Complication,5,Pré-éclampsie
+2026-05-12 08:20,HGRKAT1666,39,Vaginal,10,2319,Détresse fœtale,Sévère,45.4,Critique,5,Aucun
+2025-04-19 13:47,HGRKAT1678,39,Forceps,9,2651,Aucune,Aucune,47.1,Critique,1,Pré-éclampsie
+2025-06-09 21:56,HGRKAT1681,37,Césarienne,5,4100,Aucune,Aucune,49.7,Complication,4,Césarienne antérieure
+2025-02-23 22:14,HGRKAT1701,37,Vaginal,6,3256,Infection,Sévère,49.6,Complication,1,Aucun
+2025-08-05 15:36,HGRKAT1704,38,Forceps,8,3657,Hémorragie,Modérée,53.8,Complication,5,Césarienne antérieure
+2025-07-03 12:40,HGRKAT1706,38,Forceps,8,4034,Rupture utérine,Modérée,48.0,Critique,2,Fausse couche
+2025-01-02 09:24,HGRKAT1712,39,Forceps,9,2979,Rupture utérine,Modérée,51.0,Critique,3,Césarienne antérieure
+2025-03-30 22:21,HGRKAT1723,38,Vaginal,5,3803,Détresse fœtale,Modérée,50.9,Sain,1,Fausse couche
+2025-05-21 04:20,HGRKAT1735,41,Césarienne,8,2469,Rupture utérine,Sévère,47.6,Sain,5,Pré-éclampsie
+2025-05-30 09:08,HGRKAT1743,36,Vaginal,10,3806,Détresse fœtale,Sévère,51.5,Critique,2,Pré-éclampsie
+2025-03-24 16:46,HGRKAT1766,41,Forceps,5,3282,Hémorragie,Faible,46.1,Sain,6,Aucun
+2026-01-16 16:20,HGRKAT1783,39,Forceps,5,2240,Infection,Sévère,45.6,Critique,3,Pré-éclampsie
+2026-03-19 19:59,HGRKAT1784,37,Forceps,8,2369,Infection,Modérée,49.2,Sain,6,Pré-éclampsie
+2026-03-06 21:07,HGRKAT1801,39,Ventouse,9,3610,Rupture utérine,Modérée,53.1,Complication,2,Pré-éclampsie
+2025-06-24 03:00,HGRKAT1825,40,Ventouse,10,2553,Aucune,Aucune,46.5,Critique,1,Fausse couche
+2025-02-22 18:50,HGRKAT1861,41,Vaginal,10,3836,Hémorragie,Sévère,54.6,Critique,3,Césarienne antérieure
+2025-04-08 10:24,HGRKAT1864,36,Ventouse,9,2531,Infection,Modérée,46.4,Sain,1,Césarienne antérieure
+2025-03-03 20:29,HGRKAT1881,41,Forceps,6,2250,Aucune,Aucune,47.6,Critique,4,Césarienne antérieure
+2025-10-26 12:56,HGRKAT1883,40,Césarienne,5,2668,Infection,Faible,55.0,Critique,2,Aucun
+2025-05-17 05:05,HGRKAT1886,38,Ventouse,7,99999,Aucune,Aucune,46.1,Critique,6,Aucun
+2025-07-15 09:28,HGRKAT1890,41,Vaginal,8,3772,Infection,Sévère,47.2,Critique,4,Fausse couche
+2026-03-01 22:44,HGRKAT1907,41,Vaginal,7,3137,Détresse fœtale,Faible,50.8,Critique,1,Fausse couche
+2026-05-30 12:11,HGRKAT1926,39,Césarienne,9,4037,Pré-éclampsie,Sévère,47.4,Critique,6,Césarienne antérieure
+2026-04-04 23:05,HGRKAT1930,37,Vaginal,9,3461,Détresse fœtale,Sévère,53.7,Critique,5,Aucun
+2025-02-07 17:08,HGRKAT1952,41,Forceps,6,3628,Détresse fœtale,Modérée,52.1,Sain,3,Fausse couche
+2025-11-20 21:23,HGRKAT1960,39,Césarienne,8,2221,Hémorragie,Sévère,51.7,Sain,5,Aucun
+2025-11-24 09:41,HGRKAT1980,40,Césarienne,10,3231,Hémorragie,Modérée,45.8,Complication,3,Aucun
+2026-06-29 09:58,HGRKAT1984,41,Vaginal,7,3079,Pré-éclampsie,Faible,47.4,Complication,6,Fausse couche
+2026-05-15 07:23,HGRKAT1990,40,Ventouse,5,4064,Rupture utérine,Modérée,50.5,Sain,3,Césarienne antérieure
+2026-01-17 19:47,HGRKAT1993,39,Ventouse,6,2741,Rupture utérine,Faible,51.9,Complication,4,Fausse couche
+2026-01-02 21:18,HGRKAT1999,38,Vaginal,8,3826,Aucune,Aucune,52.9,Critique,1,Césarienne antérieure
+2025-09-06 04:18,HGRKAT2006,36,Vaginal,8,3304,Infection,Sévère,51.9,Complication,6,Césarienne antérieure
+2026-05-13 05:09,HGRKAT2039,41,Forceps,6,3433,Pré-éclampsie,Modérée,52.8,Critique,5,Césarienne antérieure
+2025-06-25 07:43,HGRKAT2043,37,Ventouse,8,4003,Rupture utérine,Modérée,49.5,Critique,1,Césarienne antérieure
+2025-10-28 09:04,HGRKAT2045,38,Ventouse,10,4005,Aucune,Aucune,48.4,Complication,6,Pré-éclampsie
+2026-04-26 12:40,HGRKAT2048,38,Forceps,7,3629,Infection,Sévère,45.1,Critique,1,Césarienne antérieure
+2026-01-03 17:35,HGRKAT2051,37,Ventouse,7,2350,Hémorragie,Sévère,46.2,Complication,4,Césarienne antérieure
+2025-05-30 15:22,HGRKAT2065,40,Ventouse,7,2462,Pré-éclampsie,Modérée,47.2,Complication,1,Aucun
+2025-11-13 14:12,HGRKAT2091,38,Ventouse,9,2221,Infection,Modérée,46.1,Critique,1,Fausse couche
+2025-07-14 08:47,HGRKAT2100,36,Ventouse,6,3501,Pré-éclampsie,Sévère,51.7,Sain,6,Aucun
+2025-05-01 00:08,HGRKAT2108,38,Césarienne,6,3039,Hémorragie,Faible,49.5,Critique,3,Fausse couche
+2026-03-25 05:21,HGRKAT2116,38,Forceps,8,3684,Aucune,Aucune,48.6,Critique,2,Césarienne antérieure
+2026-03-29 08:19,HGRKAT2126,36,Ventouse,10,2214,Rupture utérine,Modérée,48.0,Critique,3,Aucun
+2026-05-17 09:49,HGRKAT2148,41,Ventouse,5,2924,Détresse fœtale,Faible,54.0,Complication,3,Pré-éclampsie
+2026-04-21 17:37,HGRKAT2155,39,Ventouse,7,3063,Détresse fœtale,Faible,50.1,Sain,4,Fausse couche
+2025-03-25 07:02,HGRKAT2163,40,Forceps,10,2880,Aucune,Aucune,51.4,Complication,3,Aucun
+2025-05-22 19:39,HGRKAT2174,37,Forceps,5,2208,Pré-éclampsie,Modérée,45.7,Complication,3,Césarienne antérieure
+2025-07-01 19:21,HGRKAT2197,37,Forceps,10,3574,Détresse fœtale,Modérée,47.9,Critique,1,Fausse couche
+2026-02-19 07:19,HGRKAT2207,36,Césarienne,9,2375,Détresse fœtale,Faible,54.8,Complication,6,Césarienne antérieure
+2026-06-10 11:53,HGRKAT2234,38,Césarienne,8,2835,Rupture utérine,Sévère,46.1,Sain,1,Fausse couche
+2025-09-04 01:18,HGRKAT2235,39,Ventouse,9,2240,Détresse fœtale,Sévère,53.0,Critique,3,Pré-éclampsie
+2025-11-15 02:12,HGRKAT2289,36,Forceps,7,3017,Détresse fœtale,Sévère,53.2,Critique,1,Césarienne antérieure
+2025-06-10 13:53,HGRKAT2299,39,Vaginal,6,3403,Pré-éclampsie,Faible,54.4,Critique,5,Césarienne antérieure
+2025-02-07 12:58,HGRKAT2328,38,Ventouse,8,2671,Infection,Sévère,52.3,Complication,1,Césarienne antérieure
+2025-08-28 12:41,HGRKAT2345,41,Césarienne,8,3073,Détresse fœtale,Sévère,48.2,Complication,6,Césarienne antérieure
+2025-09-10 18:44,HGRKAT2346,39,Forceps,9,3943,Pré-éclampsie,Faible,47.1,Critique,4,Aucun
+2025-09-22 04:54,HGRKAT2353,40,Vaginal,8,3050,Aucune,Aucune,45.6,Complication,1,Fausse couche
+2026-05-25 08:48,HGRKAT2362,41,Césarienne,9,4017,Hémorragie,Sévère,48.9,Sain,1,Fausse couche
+2025-10-24 11:43,HGRKAT2370,39,Forceps,9,3231,Rupture utérine,Modérée,53.6,Sain,5,Fausse couche
+2026-06-10 18:49,HGRKAT2371,36,Forceps,7,3381,Infection,Modérée,49.4,Sain,4,Fausse couche
+2025-09-09 03:36,HGRKAT2381,36,Vaginal,8,2806,Détresse fœtale,Faible,49.5,Critique,3,Césarienne antérieure
+2025-04-24 14:51,HGRKAT2390,39,Ventouse,7,3026,Rupture utérine,Sévère,48.1,Complication,2,Aucun
+2025-07-12 08:07,HGRKAT2411,40,Forceps,5,3377,Détresse fœtale,Sévère,49.8,Complication,5,Pré-éclampsie
+2025-05-28 15:15,HGRKAT2414,36,Ventouse,5,3470,Rupture utérine,Modérée,50.8,Sain,5,Césarienne antérieure
+2026-03-11 09:02,HGRKAT2420,36,Césarienne,6,2491,Hémorragie,Sévère,53.4,Complication,5,Fausse couche
+2026-06-23 17:22,HGRKAT2423,40,Ventouse,7,2919,Détresse fœtale,Modérée,49.5,Complication,2,Pré-éclampsie
+2026-05-25 11:27,HGRKAT2434,36,Césarienne,8,3935,Détresse fœtale,Modérée,51.8,Critique,3,Pré-éclampsie
+2025-05-30 13:19,HGRKAT2440,41,Césarienne,6,3551,Détresse fœtale,Sévère,53.9,Sain,4,Pré-éclampsie
+2026-01-05 23:26,HGRKAT2458,38,Césarienne,10,3457,Hémorragie,Modérée,48.9,Complication,5,Fausse couche
+2025-10-02 14:13,HGRKAT2464,37,Césarienne,7,3654,Détresse fœtale,Sévère,51.8,Complication,1,Césarienne antérieure
+2026-01-21 04:36,HGRKAT2465,41,Vaginal,5,2802,Hémorragie,Sévère,51.6,Critique,5,Fausse couche
+2026-04-28 10:35,HGRKAT2494,37,Ventouse,9,2262,Hémorragie,Sévère,46.6,Sain,4,Fausse couche
+2025-05-26 12:16,HGRKAT2500,37,Vaginal,8,3781,Infection,Sévère,48.5,Complication,5,Aucun
+2025-09-10 15:59,HGRKAT2501,40,Vaginal,10,3816,Infection,Modérée,48.6,Complication,2,Aucun
+2026-01-05 18:42,HGRKAT2505,37,Césarienne,9,3667,Aucune,Aucune,51.2,Complication,4,Pré-éclampsie
+2025-04-13 22:03,HGRKAT2508,37,Césarienne,6,3191,Aucune,Aucune,49.7,Complication,1,Pré-éclampsie
+2025-11-17 15:47,HGRKAT2537,36,Forceps,7,2405,Pré-éclampsie,Faible,52.8,Critique,5,Césarienne antérieure
+2025-03-06 20:15,HGRKAT2544,36,Forceps,6,3188,Infection,Faible,46.6,Sain,2,Césarienne antérieure
+2025-09-21 08:02,HGRKAT2557,37,Ventouse,5,2302,Infection,Modérée,52.9,Sain,2,Césarienne antérieure
+2025-10-13 18:41,HGRKAT2565,39,Ventouse,9,3387,Aucune,Aucune,48.5,Critique,1,Fausse couche
+2026-01-06 23:48,HGRKAT2567,37,Ventouse,6,3567,Détresse fœtale,Faible,45.2,Complication,6,Pré-éclampsie
+2026-01-14 04:26,HGRKAT2573,40,Vaginal,9,3226,Rupture utérine,Faible,46.0,Sain,4,Fausse couche
+2026-05-15 07:08,HGRKAT2593,40,Ventouse,8,3719,Aucune,Aucune,54.8,Critique,5,Pré-éclampsie
+2025-09-04 12:35,HGRKAT2597,40,Vaginal,6,2719,Aucune,Aucune,51.7,Sain,3,Pré-éclampsie
+2026-04-30 23:11,HGRKAT2615,40,Vaginal,10,2511,Aucune,Aucune,45.0,Sain,1,Fausse couche
+2026-06-05 03:46,HGRKAT2627,41,Césarienne,9,3595,Infection,Modérée,52.2,Critique,2,Aucun
+2025-12-12 19:05,HGRKAT2641,37,Césarienne,7,2335,Détresse fœtale,Modérée,47.5,Complication,4,Pré-éclampsie
+2026-01-26 19:39,HGRKAT2642,38,Césarienne,7,2594,Hémorragie,Sévère,50.5,Sain,6,Fausse couche
+2026-02-01 14:21,HGRKAT2675,39,Césarienne,5,3106,Détresse fœtale,Faible,51.5,Sain,3,Césarienne antérieure
+2025-06-20 22:39,HGRKAT2685,39,Ventouse,7,3232,Rupture utérine,Faible,45.1,Critique,5,Césarienne antérieure
+2025-09-22 05:17,HGRKAT2714,40,Forceps,8,3303,Détresse fœtale,Sévère,47.9,Critique,4,Fausse couche
+2025-06-05 18:18,HGRKAT2715,41,Ventouse,5,3562,Rupture utérine,Sévère,46.5,Critique,5,Aucun
+2025-07-16 16:58,HGRKAT2726,36,Ventouse,8,2214,Infection,Sévère,53.3,Critique,2,Fausse couche
+2026-04-14 12:50,HGRKAT2729,38,Vaginal,10,2455,Pré-éclampsie,Modérée,54.8,Complication,5,Pré-éclampsie
+2025-09-05 10:34,HGRKAT2731,39,Forceps,5,2698,Aucune,Aucune,49.3,Critique,2,Fausse couche
+2025-02-06 16:20,HGRKAT2735,38,Forceps,10,2412,Rupture utérine,Faible,45.4,Complication,6,Aucun
+2026-02-07 21:22,HGRKAT2740,36,Césarienne,9,2560,Infection,Modérée,49.6,Sain,6,Fausse couche
+2025-12-28 13:36,HGRKAT2742,36,Vaginal,9,3022,Rupture utérine,Modérée,50.0,Critique,3,Césarienne antérieure
+2026-04-29 19:45,HGRKAT2743,39,Vaginal,8,2711,Hémorragie,Faible,50.7,Critique,6,Fausse couche
+2026-01-21 06:52,HGRKAT2790,39,Forceps,6,2353,Aucune,Aucune,51.0,Sain,2,Césarienne antérieure
+2025-07-30 02:42,HGRKAT2806,39,Vaginal,10,3317,Hémorragie,Modérée,54.3,Sain,3,Pré-éclampsie
+2025-04-30 09:33,HGRKAT2820,36,Vaginal,5,4031,Rupture utérine,Sévère,50.2,Sain,4,Césarienne antérieure
+2026-05-07 01:06,HGRKAT2825,40,Vaginal,6,2633,Rupture utérine,Faible,52.4,Complication,6,Aucun
+2026-05-20 06:18,HGRKAT2839,36,Vaginal,5,3468,Aucune,Aucune,52.3,Sain,4,Fausse couche
+2025-06-24 02:28,HGRKAT2842,39,Césarienne,10,3000,Aucune,Aucune,46.0,Critique,4,Fausse couche
+2026-04-28 16:03,HGRKAT2859,41,Ventouse,9,2301,Infection,Sévère,49.1,Complication,4,Césarienne antérieure
+2026-05-02 13:05,HGRKAT2863,38,Ventouse,8,2958,Pré-éclampsie,Modérée,48.5,Critique,1,Aucun
+2025-01-24 15:45,HGRKAT2872,38,Forceps,6,2855,Pré-éclampsie,Modérée,50.0,Complication,3,Aucun
+2025-02-08 02:54,HGRKAT2890,41,Forceps,8,3212,Aucune,Aucune,54.3,Complication,5,Pré-éclampsie
+2025-09-09 16:00,HGRKAT2891,38,Forceps,6,3089,Rupture utérine,Sévère,53.8,Complication,6,Pré-éclampsie
+2025-06-10 07:44,HGRKAT2892,39,Ventouse,7,3623,Détresse fœtale,Modérée,54.0,Sain,1,Fausse couche
+2025-10-08 07:01,HGRKAT2918,36,Vaginal,5,4042,Détresse fœtale,Modérée,48.1,Critique,2,Aucun
+2025-08-24 23:42,HGRKAT2920,37,Ventouse,8,2805,Aucune,Aucune,51.7,Sain,5,Aucun
+2025-01-04 17:53,HGRKAT2942,36,Vaginal,10,3706,Rupture utérine,Modérée,51.3,Sain,2,Césarienne antérieure
+2025-05-11 14:30,HGRKAT2946,38,Césarienne,9,3038,Pré-éclampsie,Sévère,50.4,Critique,6,Pré-éclampsie
+2026-04-25 14:17,HGRKAT2948,36,Ventouse,8,2340,Infection,Modérée,52.3,Complication,3,Pré-éclampsie
+2025-10-03 10:47,HGRKAT2951,39,Vaginal,9,3069,Détresse fœtale,Modérée,54.2,Sain,6,Pré-éclampsie
+2025-07-21 20:46,HGRKAT2987,36,Ventouse,5,3252,Détresse fœtale,Sévère,48.4,Critique,3,Césarienne antérieure
+2026-06-23 03:04,HGRKAT2992,40,Césarienne,9,3415,Détresse fœtale,Modérée,51.6,Critique,4,Aucun
+2026-02-28 02:47,HGRKAT2993,40,Ventouse,9,3679,Hémorragie,Sévère,47.3,Complication,2,Pré-éclampsie
+2025-09-26 17:57,HGRKAT2996,36,Ventouse,9,2505,Pré-éclampsie,Modérée,52.3,Sain,3,Fausse couche
+2026-05-16 21:36,HGRKAT2998,40,Césarienne,8,3385,Hémorragie,Modérée,53.8,Sain,6,Aucun
+2025-03-28 01:51,HGRKAT3011,37,Ventouse,5,3835,Hémorragie,Modérée,49.2,Sain,1,Aucun
+2026-03-11 00:29,HGRKAT3021,36,Vaginal,10,3628,Rupture utérine,Sévère,52.9,Complication,3,Césarienne antérieure
+2026-05-21 06:46,HGRKAT3026,37,Vaginal,6,3415,Rupture utérine,Sévère,47.8,Complication,3,Pré-éclampsie
+2026-01-17 21:37,HGRKAT3036,36,Vaginal,8,2657,Aucune,Aucune,54.3,Sain,5,Aucun
+2025-08-11 16:48,HGRKAT3062,40,Ventouse,7,3963,Hémorragie,Sévère,50.8,Critique,6,Aucun
+2026-05-04 20:07,HGRKAT3111,37,Vaginal,8,2826,Pré-éclampsie,Sévère,48.4,Complication,5,Fausse couche
+2026-05-16 07:19,HGRKAT3112,39,Césarienne,6,3740,Rupture utérine,Sévère,52.4,Complication,4,Aucun
+2025-07-28 03:50,HGRKAT3127,41,Césarienne,8,3574,Hémorragie,Modérée,46.7,Sain,5,Aucun
+2025-08-28 00:24,HGRKAT3134,41,Ventouse,5,3401,Détresse fœtale,Sévère,53.3,Complication,2,Aucun
+2025-05-28 10:40,HGRKAT3142,38,Césarienne,10,2269,Aucune,Aucune,45.1,Complication,5,Pré-éclampsie
+2026-02-10 04:42,HGRKAT3154,36,Ventouse,6,3546,Pré-éclampsie,Modérée,45.9,Sain,4,Pré-éclampsie
+2025-06-02 15:50,HGRKAT3180,39,Forceps,7,4075,Détresse fœtale,Modérée,50.1,Complication,5,Pré-éclampsie
+2025-07-11 03:26,HGRKAT3184,38,Vaginal,7,2625,Aucune,Aucune,47.5,Critique,3,Pré-éclampsie
+2025-09-12 22:53,HGRKAT3185,41,Vaginal,8,2947,Rupture utérine,Sévère,54.3,Complication,1,Fausse couche
+2025-01-16 14:23,HGRKAT3188,41,Forceps,7,-500,Détresse fœtale,Sévère,54.3,Sain,6,Pré-éclampsie
+2025-10-02 17:34,HGRKAT3203,39,Césarienne,5,3210,Aucune,Aucune,53.1,Sain,3,Césarienne antérieure
+2026-02-24 14:52,HGRKAT3219,38,Ventouse,5,2844,Détresse fœtale,Faible,51.4,Complication,6,Aucun
+2025-05-02 21:13,HGRKAT3225,38,Vaginal,6,3463,Aucune,Aucune,53.7,Critique,3,Fausse couche
+2025-10-30 18:34,HGRKAT3234,37,Forceps,9,2795,Détresse fœtale,Faible,46.7,Sain,3,Césarienne antérieure
+2026-02-21 13:45,HGRKAT3237,38,Césarienne,6,3401,Détresse fœtale,Faible,47.5,Critique,2,Pré-éclampsie
+2025-11-25 19:59,HGRKAT3293,40,Vaginal,5,2338,Infection,Sévère,52.9,Complication,5,Pré-éclampsie
+2025-10-11 20:45,HGRKAT3348,38,Forceps,9,4041,Rupture utérine,Faible,47.2,Sain,2,Pré-éclampsie
+2025-06-07 09:17,HGRKAT3353,41,Forceps,6,3025,Hémorragie,Modérée,51.0,Sain,6,Césarienne antérieure
+2025-11-16 03:21,HGRKAT3371,41,Vaginal,9,3913,Détresse fœtale,Sévère,45.5,Sain,5,Fausse couche
+2025-10-29 01:53,HGRKAT3376,39,Césarienne,6,3450,Rupture utérine,Faible,49.4,Sain,5,Fausse couche
+2025-04-16 05:30,HGRKAT3377,40,Ventouse,7,2443,Rupture utérine,Sévère,50.4,Sain,4,Aucun
+2026-04-06 19:16,HGRKAT3381,38,Césarienne,9,3523,Aucune,Aucune,45.3,Sain,2,Aucun
+2025-03-15 05:14,HGRKAT3385,36,Césarienne,6,2572,Rupture utérine,Faible,52.4,Complication,5,Fausse couche
+2025-04-08 00:10,HGRKAT3387,39,Vaginal,9,2784,Détresse fœtale,Modérée,51.2,Complication,1,Aucun
+2025-02-25 01:01,HGRKAT3397,37,Forceps,7,99999,Rupture utérine,Faible,54.4,Critique,4,Pré-éclampsie
+2025-06-04 07:50,HGRKAT3419,40,Forceps,5,3858,Hémorragie,Faible,54.7,Sain,6,Fausse couche
+2025-05-02 22:59,HGRKAT3424,37,Vaginal,10,3747,Pré-éclampsie,Modérée,54.6,Complication,4,Aucun
+2025-02-12 04:58,HGRKAT3427,37,Ventouse,5,3866,Rupture utérine,Sévère,52.5,Complication,5,Césarienne antérieure
+2025-04-20 18:15,HGRKAT3428,37,Forceps,6,3719,Hémorragie,Sévère,50.9,Critique,5,Fausse couche
+2025-03-30 10:28,HGRKAT3455,39,Césarienne,7,3645,Rupture utérine,Modérée,54.8,Critique,5,Aucun
+2025-05-17 22:08,HGRKAT3466,39,Césarienne,6,2867,Infection,Sévère,54.9,Sain,4,Aucun
+2025-08-09 08:54,HGRKAT3478,40,Forceps,6,3767,Aucune,Aucune,52.8,Sain,2,Aucun
+2025-08-09 02:22,HGRKAT3483,36,Vaginal,5,3431,Rupture utérine,Modérée,50.6,Complication,3,Aucun
+2025-07-22 18:20,HGRKAT3497,38,Césarienne,5,2963,Aucune,Aucune,46.3,Complication,5,Pré-éclampsie
+2026-06-23 17:41,HGRKAT3522,39,Forceps,7,3016,Rupture utérine,Sévère,50.5,Critique,1,Aucun
+2025-10-23 21:50,HGRKAT3532,38,Vaginal,10,3370,Infection,Faible,45.7,Complication,3,Fausse couche
+2025-01-16 16:54,HGRKAT3549,36,Vaginal,7,3954,Aucune,Aucune,45.5,Complication,5,Césarienne antérieure
+2025-06-10 01:26,HGRKAT3558,36,Forceps,9,3342,Infection,Modérée,46.5,Critique,5,Fausse couche
+2026-05-16 22:41,HGRKAT3559,38,Vaginal,5,3541,Détresse fœtale,Modérée,47.1,Sain,3,Aucun
+2025-12-23 15:18,HGRKAT3562,38,Ventouse,9,2850,Pré-éclampsie,Faible,54.3,Complication,2,Césarienne antérieure
+2025-04-18 14:17,HGRKAT3568,41,Césarienne,10,3991,Infection,Modérée,52.6,Complication,3,Fausse couche
+2025-09-18 17:33,HGRKAT3580,38,Ventouse,8,99999,Rupture utérine,Sévère,49.9,Sain,6,Fausse couche
+2025-10-13 03:55,HGRKAT3607,39,Vaginal,7,2791,Détresse fœtale,Faible,46.0,Sain,1,Pré-éclampsie
+2025-03-15 04:03,HGRKAT3615,40,Ventouse,8,2362,Pré-éclampsie,Sévère,47.7,Sain,6,Fausse couche
+2026-04-06 16:45,HGRKAT3636,39,Vaginal,10,3369,Détresse fœtale,Modérée,45.6,Complication,6,Césarienne antérieure
+2026-03-08 03:18,HGRKAT3649,36,Césarienne,9,3421,Détresse fœtale,Faible,54.0,Critique,6,Fausse couche
+2025-11-16 14:13,HGRKAT3680,38,Forceps,9,4027,Pré-éclampsie,Sévère,52.4,Sain,5,Aucun
+2026-04-16 18:09,HGRKAT3688,38,Ventouse,8,3639,Détresse fœtale,Modérée,48.0,Critique,3,Fausse couche
+2025-07-31 09:32,HGRKAT3696,36,Vaginal,10,2614,Infection,Modérée,49.7,Sain,3,Pré-éclampsie
+2026-02-26 23:12,HGRKAT3699,36,Vaginal,7,3000,Hémorragie,Faible,49.5,Sain,3,Aucun
+2025-05-10 02:34,HGRKAT3706,41,Vaginal,9,3788,Détresse fœtale,Sévère,49.9,Critique,4,Césarienne antérieure
+2025-03-26 09:19,HGRKAT3723,37,Ventouse,9,2206,Hémorragie,Faible,52.3,Critique,5,Césarienne antérieure
+2026-03-06 07:20,HGRKAT3734,41,Ventouse,5,2650,Aucune,Aucune,50.3,Critique,1,Fausse couche
+2026-05-14 12:50,HGRKAT3740,39,Vaginal,7,3070,Rupture utérine,Faible,49.1,Sain,2,Pré-éclampsie
+2026-04-13 11:03,HGRKAT3743,39,Forceps,5,3056,Infection,Modérée,51.7,Critique,3,Pré-éclampsie
+2025-02-19 16:20,HGRKAT3772,40,Ventouse,5,3404,Détresse fœtale,Modérée,49.6,Complication,6,Fausse couche
+2026-05-09 22:27,HGRKAT3774,40,Césarienne,7,2307,Aucune,Aucune,49.0,Critique,4,Césarienne antérieure
+2026-03-16 19:15,HGRKAT3776,40,Vaginal,9,2990,Infection,Modérée,49.5,Complication,3,Aucun
+2025-11-29 23:04,HGRKAT3778,40,Vaginal,9,3436,Détresse fœtale,Modérée,47.6,Sain,1,Pré-éclampsie
+2025-10-29 09:08,HGRKAT3781,39,Forceps,7,2223,Aucune,Aucune,46.4,Critique,5,Fausse couche
+2025-12-10 11:45,HGRKAT3788,41,Césarienne,6,2557,Aucune,Aucune,45.6,Complication,1,Aucun
+2025-09-14 02:25,HGRKAT3793,40,Ventouse,8,3895,Aucune,Aucune,53.4,Sain,6,Aucun
+2026-03-11 23:03,HGRKAT3816,37,Ventouse,6,2919,Détresse fœtale,Faible,45.2,Sain,4,Aucun
+2025-11-08 03:55,HGRKAT3819,39,Vaginal,7,2211,Rupture utérine,Faible,47.0,Complication,1,Pré-éclampsie
+2025-01-12 00:31,HGRKAT3830,38,Césarienne,9,2810,Aucune,Aucune,49.3,Critique,2,Fausse couche
+2025-04-06 02:55,HGRKAT3847,40,Ventouse,10,3833,Hémorragie,Sévère,51.7,Complication,2,Pré-éclampsie
+2026-05-31 01:51,HGRKAT3872,40,Forceps,9,3372,Rupture utérine,Modérée,50.9,Complication,4,Césarienne antérieure
+2025-12-19 22:14,HGRKAT3873,37,Vaginal,7,2269,Pré-éclampsie,Faible,50.6,Critique,3,Césarienne antérieure
+2026-01-09 18:47,HGRKAT3887,37,Forceps,5,3436,Rupture utérine,Modérée,52.9,Sain,1,Pré-éclampsie
+2025-07-05 13:13,HGRKAT3900,40,Ventouse,10,3293,Pré-éclampsie,Faible,47.8,Critique,5,Césarienne antérieure
+2025-05-23 21:54,HGRKAT3901,41,Césarienne,7,2482,Aucune,Aucune,53.2,Complication,1,Césarienne antérieure
+2026-01-16 00:48,HGRKAT3917,41,Forceps,8,3853,Infection,Sévère,46.7,Complication,3,Aucun
+2025-10-19 10:03,HGRKAT3923,40,Ventouse,6,3616,Pré-éclampsie,Faible,48.3,Sain,4,Césarienne antérieure
+2026-05-16 23:08,HGRKAT3959,36,Césarienne,9,2902,Détresse fœtale,Modérée,47.8,Complication,1,Césarienne antérieure
+2026-02-18 18:27,HGRKAT3965,41,Forceps,8,2870,Aucune,Aucune,46.6,Sain,5,Pré-éclampsie
+2025-09-23 15:58,HGRKAT3966,36,Forceps,7,4021,Pré-éclampsie,Modérée,45.3,Complication,2,Fausse couche
+2025-07-04 11:28,HGRKAT3967,39,Césarienne,10,4044,Rupture utérine,Modérée,53.8,Complication,2,Fausse couche
+2025-09-28 10:20,HGRKAT3970,37,Ventouse,7,2848,Aucune,Aucune,47.8,Sain,3,Aucun
+2026-05-03 01:58,HGRKAT3977,38,Forceps,5,4021,Pré-éclampsie,Faible,45.5,Complication,1,Césarienne antérieure
+2025-02-13 03:46,HGRKAT3999,36,Césarienne,6,2759,Aucune,Aucune,46.4,Critique,4,Aucun
+2025-09-28 14:08,HGRKAT4014,41,Ventouse,9,2617,Détresse fœtale,Faible,46.1,Critique,1,Césarienne antérieure
+2025-01-07 18:50,HGRKAT4023,37,Vaginal,8,3547,Hémorragie,Sévère,48.0,Critique,3,Fausse couche
+2025-12-04 17:40,HGRKAT4030,39,Césarienne,6,-500,Aucune,Aucune,48.0,Critique,4,Césarienne antérieure
+2026-06-27 06:54,HGRKAT4052,38,Césarienne,10,3867,Aucune,Aucune,50.6,Critique,3,Aucun
+2025-12-15 05:24,HGRKAT4059,39,Forceps,6,3187,Détresse fœtale,Sévère,50.8,Sain,5,Césarienne antérieure
+2025-10-29 02:07,HGRKAT4064,36,Forceps,5,2817,Pré-éclampsie,Modérée,50.4,Complication,1,Césarienne antérieure
+2025-02-20 07:19,HGRKAT4072,40,Forceps,7,2343,Hémorragie,Faible,47.8,Complication,2,Fausse couche
+2025-06-06 03:23,HGRKAT4082,39,Ventouse,7,3005,Hémorragie,Faible,49.4,Sain,4,Pré-éclampsie
+2026-04-25 20:08,HGRKAT4087,41,Vaginal,8,3648,Hémorragie,Sévère,45.3,Critique,6,Pré-éclampsie
+2025-06-12 00:02,HGRKAT4094,38,Forceps,7,3295,Infection,Sévère,46.5,Complication,4,Pré-éclampsie
+2025-03-18 18:27,HGRKAT4098,41,Césarienne,8,3341,Infection,Modérée,48.7,Critique,6,Aucun
+2025-02-10 08:52,HGRKAT4111,36,Ventouse,9,3095,Détresse fœtale,Modérée,52.1,Sain,5,Césarienne antérieure
+2025-05-25 14:39,HGRKAT4117,36,Forceps,8,2805,Infection,Modérée,52.7,Sain,6,Césarienne antérieure
+2025-10-12 19:19,HGRKAT4118,40,Césarienne,6,2441,Détresse fœtale,Modérée,52.4,Sain,1,Fausse couche
+2026-02-24 17:07,HGRKAT4145,39,Forceps,10,3176,Détresse fœtale,Sévère,45.0,Critique,4,Pré-éclampsie
+2025-09-24 16:34,HGRKAT4152,40,Ventouse,5,2454,Infection,Faible,52.9,Critique,2,Pré-éclampsie
+2026-01-22 10:08,HGRKAT4172,37,Forceps,10,2968,Aucune,Aucune,49.0,Complication,6,Fausse couche
+2025-10-24 04:48,HGRKAT4181,37,Césarienne,5,3913,Pré-éclampsie,Faible,47.0,Complication,2,Fausse couche
+2026-01-06 14:37,HGRKAT4189,36,Forceps,9,3049,Aucune,Aucune,52.6,Complication,1,Pré-éclampsie
+2026-06-24 02:36,HGRKAT4190,36,Ventouse,6,3629,Rupture utérine,Sévère,51.3,Critique,6,Fausse couche
+2026-03-26 05:37,HGRKAT4195,41,Césarienne,6,3853,Rupture utérine,Modérée,51.4,Sain,6,Fausse couche
+2025-10-12 09:44,HGRKAT4201,36,Forceps,6,3692,Rupture utérine,Sévère,54.0,Sain,4,Césarienne antérieure
+2025-10-12 08:57,HGRKAT4203,41,Ventouse,7,3921,Détresse fœtale,Faible,47.8,Critique,6,Pré-éclampsie
+2025-07-26 20:51,HGRKAT4209,37,Vaginal,10,2671,Rupture utérine,Sévère,53.0,Complication,6,Fausse couche
+2026-06-16 21:31,HGRKAT4218,36,Vaginal,10,3151,Infection,Sévère,50.5,Sain,3,Aucun
+2025-11-03 20:12,HGRKAT4220,38,Ventouse,8,2238,Hémorragie,Faible,46.9,Sain,6,Césarienne antérieure
+2026-06-14 06:40,HGRKAT4238,37,Forceps,10,3700,Rupture utérine,Sévère,46.2,Sain,5,Aucun
+2026-04-15 08:33,HGRKAT4251,40,Césarienne,10,3847,Infection,Modérée,45.7,Critique,3,Pré-éclampsie
+2025-04-20 15:13,HGRKAT4255,41,Vaginal,10,2239,Rupture utérine,Faible,46.0,Sain,4,Fausse couche
+2026-06-21 08:50,HGRKAT4256,40,Ventouse,9,2958,Détresse fœtale,Sévère,49.5,Complication,5,Aucun
+2025-11-11 17:39,HGRKAT4287,36,Forceps,5,3168,Infection,Modérée,49.8,Complication,1,Aucun
+2025-10-15 12:44,HGRKAT4291,36,Forceps,5,3081,Pré-éclampsie,Sévère,54.4,Critique,6,Fausse couche
+2026-06-03 15:28,HGRKAT4304,37,Césarienne,9,3695,Hémorragie,Modérée,45.5,Sain,4,Pré-éclampsie
+2026-04-21 20:10,HGRKAT4306,41,Césarienne,8,3129,Hémorragie,Sévère,52.7,Critique,1,Fausse couche
+2025-05-06 13:20,HGRKAT4328,38,Césarienne,8,4088,Infection,Modérée,52.8,Complication,6,Fausse couche
+2025-09-11 22:54,HGRKAT4336,39,Ventouse,10,3758,Infection,Modérée,45.5,Complication,2,Fausse couche
+2026-02-04 22:24,HGRKAT4362,37,Forceps,9,4011,Détresse fœtale,Sévère,46.2,Complication,6,Fausse couche
+2026-02-18 01:21,HGRKAT4373,38,Ventouse,8,3455,Détresse fœtale,Modérée,49.5,Critique,5,Césarienne antérieure
+2026-05-01 05:17,HGRKAT4386,40,Césarienne,6,3613,Rupture utérine,Sévère,48.7,Complication,3,Fausse couche
+2025-11-22 07:41,HGRKAT4399,36,Césarienne,5,2682,Aucune,Aucune,52.9,Critique,4,Aucun
+2025-01-16 14:45,HGRKAT4402,40,Vaginal,7,2499,Infection,Faible,51.1,Critique,3,Fausse couche
+2025-05-12 12:47,HGRKAT4405,40,Vaginal,5,4077,Détresse fœtale,Sévère,50.0,Complication,2,Césarienne antérieure
+2025-12-27 13:19,HGRKAT4432,39,Vaginal,6,3264,Infection,Modérée,52.0,Complication,1,Pré-éclampsie
+2026-01-20 06:37,HGRKAT4451,41,Ventouse,7,3779,Infection,Sévère,47.6,Critique,3,Pré-éclampsie
+2026-06-08 22:30,HGRKAT4455,36,Ventouse,7,99999,Hémorragie,Modérée,52.9,Critique,5,Fausse couche
+2026-04-17 18:50,HGRKAT4485,41,Forceps,9,2981,Rupture utérine,Sévère,53.2,Complication,3,Aucun
+2025-12-09 02:22,HGRKAT4487,41,Forceps,10,2341,Rupture utérine,Faible,52.3,Critique,6,Césarienne antérieure
+2025-04-01 17:36,HGRKAT4501,41,Césarienne,5,2814,Aucune,Aucune,53.3,Critique,2,Pré-éclampsie
+2025-12-18 10:59,HGRKAT4518,41,Vaginal,5,3017,Rupture utérine,Modérée,48.8,Critique,2,Aucun
+2025-10-06 22:32,HGRKAT4529,41,Vaginal,5,2653,Aucune,Aucune,50.0,Complication,3,Pré-éclampsie
+2025-08-05 06:04,HGRKAT4555,41,Ventouse,7,2877,Infection,Sévère,52.3,Sain,4,Fausse couche
+2025-03-16 10:15,HGRKAT4561,41,Ventouse,8,3654,Infection,Faible,45.6,Complication,6,Césarienne antérieure
+2026-04-17 20:53,HGRKAT4565,37,Vaginal,5,3903,Rupture utérine,Faible,54.9,Complication,4,Pré-éclampsie
+2025-12-07 17:04,HGRKAT4593,38,Ventouse,7,4061,Détresse fœtale,Faible,47.0,Critique,6,Césarienne antérieure
+2025-01-22 12:08,HGRKAT4594,40,Ventouse,7,2390,Aucune,Aucune,47.4,Critique,6,Aucun
+2026-04-01 06:07,HGRKAT4602,37,Forceps,10,3555,Détresse fœtale,Faible,51.2,Sain,1,Aucun
+2026-03-02 17:52,HGRKAT4625,36,Forceps,6,2517,Pré-éclampsie,Modérée,47.8,Complication,4,Césarienne antérieure
+2026-05-11 06:46,HGRKAT4640,41,Forceps,6,3138,Aucune,Aucune,49.0,Sain,6,Fausse couche
+2025-05-20 21:35,HGRKAT4662,41,Forceps,5,3126,Infection,Modérée,45.6,Sain,4,Aucun
+2025-05-04 02:50,HGRKAT4689,40,Césarienne,6,2305,Hémorragie,Sévère,51.0,Complication,1,Fausse couche
+2025-09-10 00:45,HGRKAT4696,39,Césarienne,9,3763,Hémorragie,Modérée,50.9,Sain,2,Aucun
+2026-04-22 07:08,HGRKAT4706,40,Vaginal,7,3538,Rupture utérine,Faible,49.5,Sain,2,Pré-éclampsie
+2025-07-09 20:01,HGRKAT4707,36,Ventouse,9,3360,Hémorragie,Sévère,52.9,Sain,5,Pré-éclampsie
+2025-11-08 11:33,HGRKAT4726,38,Césarienne,6,-500,Détresse fœtale,Modérée,54.5,Critique,1,Césarienne antérieure
+2025-09-01 19:47,HGRKAT4738,40,Césarienne,6,3468,Infection,Modérée,52.1,Critique,1,Fausse couche
+2026-03-13 10:59,HGRKAT4750,39,Vaginal,7,3880,Aucune,Aucune,53.5,Critique,4,Fausse couche
+2026-06-29 12:25,HGRKAT4756,41,Césarienne,5,3482,Aucune,Aucune,50.6,Critique,5,Césarienne antérieure
+2025-10-05 06:00,HGRKAT4760,40,Césarienne,5,3841,Détresse fœtale,Sévère,52.9,Sain,5,Césarienne antérieure
+2026-03-21 13:03,HGRKAT4761,37,Vaginal,8,3436,Infection,Modérée,48.6,Complication,5,Pré-éclampsie
+2025-08-16 06:08,HGRKAT4780,39,Césarienne,8,3236,Infection,Modérée,50.0,Sain,5,Pré-éclampsie
+2026-03-07 01:49,HGRKAT4782,36,Vaginal,6,3074,Hémorragie,Modérée,51.6,Complication,4,Césarienne antérieure
+2025-05-21 05:00,HGRKAT4805,38,Forceps,6,2634,Rupture utérine,Modérée,54.6,Critique,2,Fausse couche
+2026-07-01 07:14,HGRKAT4808,40,Forceps,7,3107,Infection,Sévère,53.5,Sain,2,Aucun
+2026-04-28 16:13,HGRKAT4867,39,Césarienne,6,3117,Infection,Sévère,53.4,Complication,4,Césarienne antérieure
+2026-01-01 18:52,HGRKAT4869,37,Césarienne,6,3264,Pré-éclampsie,Faible,53.9,Complication,4,Césarienne antérieure
+2025-10-19 06:33,HGRKAT4878,40,Ventouse,7,2945,Rupture utérine,Faible,53.4,Critique,6,Pré-éclampsie
+2026-02-18 16:29,HGRKAT4882,37,Vaginal,10,2637,Détresse fœtale,Modérée,51.4,Sain,1,Césarienne antérieure
+2025-08-10 05:49,HGRKAT4888,39,Ventouse,9,2420,Hémorragie,Faible,54.1,Complication,5,Césarienne antérieure
+2025-05-03 09:06,HGRKAT4909,41,Ventouse,10,2501,Aucune,Aucune,53.9,Critique,6,Aucun
+2026-03-04 21:20,HGRKAT4917,37,Forceps,7,4024,Hémorragie,Sévère,48.6,Sain,5,Césarienne antérieure
+2025-07-04 16:10,HGRKAT4922,38,Vaginal,7,3857,Infection,Sévère,50.8,Critique,1,Césarienne antérieure
+2025-10-06 05:31,HGRKAT4940,41,Forceps,9,3791,Détresse fœtale,Sévère,46.4,Critique,3,Pré-éclampsie
+2026-05-23 05:01,HGRKAT4974,41,Ventouse,7,3841,Rupture utérine,Sévère,47.4,Sain,3,Aucun
+2026-04-21 09:09,HGRKAT4976,39,Forceps,10,3760,Aucune,Aucune,48.3,Critique,1,Césarienne antérieure
+2025-11-26 12:41,HGRKAT4977,36,Vaginal,6,3350,Aucune,Aucune,48.4,Critique,6,Pré-éclampsie
+2025-03-05 15:47,HGRKAT4998,36,Ventouse,10,4040,Hémorragie,Faible,47.3,Sain,1,Césarienne antérieure
+2026-04-19 10:40,HGRKAT5000,36,Césarienne,8,2872,Infection,Faible,52.2,Critique,4,Aucun
+2025-06-10 01:26,HGRKAT3558,36,Forceps,9,3342,Infection,Modérée,46.5,Critique,5,Fausse couche
+2025-11-29 23:04,HGRKAT3778,40,Vaginal,9,3436,Détresse fœtale,Modérée,47.6,Sain,1,Pré-éclampsie
+2026-06-29 12:25,HGRKAT4756,41,Césarienne,5,3482,Aucune,Aucune,50.6,Critique,5,Césarienne antérieure
+2025-12-12 07:33,HGRKAT0876,36,Forceps,9,2439,Infection,Sévère,50.2,Sain,4,Pré-éclampsie
+2026-01-05 23:26,HGRKAT2458,38,Césarienne,10,3457,Hémorragie,Modérée,48.9,Complication,5,Fausse couche
+2025-03-29 12:11,HGRKAT0841,38,Césarienne,9,3964,Aucune,Aucune,52.0,Critique,2,Césarienne antérieure
+2025-09-07 09:22,HGRKAT1280,39,Ventouse,5,2618,Aucune,Aucune,53.8,Complication,2,Pré-éclampsie
+2025-12-14 18:45,HGRKAT1046,38,Forceps,5,4100,Pré-éclampsie,Sévère,48.0,Critique,1,Pré-éclampsie
+2025-05-30 15:22,HGRKAT2065,40,Ventouse,7,2462,Pré-éclampsie,Modérée,47.2,Complication,1,Aucun
+2026-04-21 20:10,HGRKAT4306,41,Césarienne,8,3129,Hémorragie,Sévère,52.7,Critique,1,Fausse couche
+2025-06-24 03:00,HGRKAT1825,40,Ventouse,10,2553,Aucune,Aucune,46.5,Critique,1,Fausse couche
+2026-05-15 07:08,HGRKAT2593,40,Ventouse,8,3719,Aucune,Aucune,54.8,Critique,5,Pré-éclampsie
+2026-04-17 18:50,HGRKAT4485,41,Forceps,9,2981,Rupture utérine,Sévère,53.2,Complication,3,Aucun
+2025-09-06 04:18,HGRKAT2006,36,Vaginal,8,3304,Infection,Sévère,51.9,Complication,6,Césarienne antérieure
+2025-03-26 09:19,HGRKAT3723,37,Ventouse,9,2206,Hémorragie,Faible,52.3,Critique,5,Césarienne antérieure
+2025-10-19 06:33,HGRKAT4878,40,Ventouse,7,2945,Rupture utérine,Faible,53.4,Critique,6,Pré-éclampsie
+2026-02-24 17:07,HGRKAT4145,39,Forceps,10,3176,Détresse fœtale,Sévère,45.0,Critique,4,Pré-éclampsie
+2026-04-04 23:05,HGRKAT1930,37,Vaginal,9,3461,Détresse fœtale,Sévère,53.7,Critique,5,Aucun
+2025-07-03 17:45,HGRKAT0934,40,Ventouse,8,2604,Pré-éclampsie,Modérée,54.0,Complication,5,Pré-éclampsie
+2026-04-05 18:23,HGRKAT0648,39,Césarienne,5,3150,Pré-éclampsie,Modérée,50.7,Sain,4,Pré-éclampsie
+2025-10-08 07:01,HGRKAT2918,36,Vaginal,5,4042,Détresse fœtale,Modérée,48.1,Critique,2,Aucun
+2026-05-09 22:27,HGRKAT3774,40,Césarienne,7,2307,Aucune,Aucune,49.0,Critique,4,Césarienne antérieure
+2025-06-03 21:40,HGRKAT1430,39,Ventouse,10,3547,Détresse fœtale,Modérée,51.6,Critique,2,Césarienne antérieure
+2025-09-10 00:45,HGRKAT4696,39,Césarienne,9,3763,Hémorragie,Modérée,50.9,Sain,2,Aucun
+2025-12-23 15:18,HGRKAT3562,38,Ventouse,9,2850,Pré-éclampsie,Faible,54.3,Complication,2,Césarienne antérieure
+2026-01-31 18:58,HGRKAT0818,39,Forceps,10,2565,Pré-éclampsie,Modérée,48.5,Complication,2,Césarienne antérieure
+2025-09-09 03:36,HGRKAT2381,36,Vaginal,8,2806,Détresse fœtale,Faible,49.5,Critique,3,Césarienne antérieure
+2025-05-26 12:16,HGRKAT2500,37,Vaginal,8,3781,Infection,Sévère,48.5,Complication,5,Aucun
+2026-02-18 18:27,HGRKAT3965,41,Forceps,8,2870,Aucune,Aucune,46.6,Sain,5,Pré-éclampsie
+2025-01-02 09:24,HGRKAT1712,39,Forceps,9,2979,Rupture utérine,Modérée,51.0,Critique,3,Césarienne antérieure
+2025-05-17 22:08,HGRKAT3466,39,Césarienne,6,2867,Infection,Sévère,54.9,Sain,4,Aucun
+2026-01-20 06:37,HGRKAT4451,41,Ventouse,7,3779,Infection,Sévère,47.6,Critique,3,Pré-éclampsie
+2026-04-25 14:17,HGRKAT2948,36,Ventouse,8,2340,Infection,Modérée,52.3,Complication,3,Pré-éclampsie
+2025-09-10 18:44,HGRKAT2346,39,Forceps,9,3943,Pré-éclampsie,Faible,47.1,Critique,4,Aucun
+2025-09-01 19:47,HGRKAT4738,40,Césarienne,6,3468,Infection,Modérée,52.1,Critique,1,Fausse couche
+2025-04-21 09:06,HGRKAT1104,36,Vaginal,6,3002,Hémorragie,Modérée,53.4,Critique,2,Pré-éclampsie
+2025-05-21 05:00,HGRKAT4805,38,Forceps,6,2634,Rupture utérine,Modérée,54.6,Critique,2,Fausse couche
+2026-04-30 23:11,HGRKAT2615,40,Vaginal,10,2511,Aucune,Aucune,45.0,Sain,1,Fausse couche
+2025-01-16 16:54,HGRKAT3549,36,Vaginal,7,3954,Aucune,Aucune,45.5,Complication,5,Césarienne antérieure
+2025-10-29 09:08,HGRKAT3781,39,Forceps,7,2223,Aucune,Aucune,46.4,Critique,5,Fausse couche
